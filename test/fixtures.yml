@@ -469,6 +469,11 @@ hps:
 hps_echeck:
   secret_api_key:
 
+# Working credentials, no need to replace
+hyperion:
+  some_credential: SOMECREDENTIAL
+  another_credential: ANOTHERCREDENTIAL
+
 iats_payments:
   agent_code: TEST88
   password: TEST88
